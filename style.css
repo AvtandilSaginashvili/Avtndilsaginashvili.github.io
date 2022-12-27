@@ -1,0 +1,156 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F2F2F2;
+}
+
+@font-face {
+    font-family: firagor;
+    src: url(FiraGOR.ttf);
+}
+
+.mydiv {
+    width: 718px;
+    height: 748px;
+    margin-top: 52px;
+    margin-bottom: 32px;
+    background-color: #FFFFFF;
+    font-family: firagor;
+    border-radius: 10px;
+    border-color: #e2e2e2;
+}
+
+.h2-1 {
+    width: 191px;
+    font-weight: 700;
+    font-size: 26px;
+    font-style: normal;
+    padding-left: 47px;
+}
+
+#name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    width: 191px;
+    padding-left: 51px;
+}
+
+.name-1 {
+    width: 616px;
+    height: 50px;
+    border-radius: 10px;
+    opacity: 0.5;
+    border:solid gray 1px;
+    margin-top: 5px;
+    margin-left: 51px;
+    margin-bottom: 13px;
+    border-color: #E5E5E5;
+}
+
+#name1 {
+    padding-left: 18px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#mail {
+    width: 191px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    padding-left: 51px;
+}
+
+.mail1 {
+    width: 616px;
+    height: 50px;
+    border-radius: 10px;
+    opacity: 0.3;
+    border:solid gray 1px;
+    margin-top: 5px;
+    margin-left: 51px;
+    padding-left: 18px;
+    margin-bottom: 13px;
+    border-color: #E5E5E5;
+}
+
+#cntry {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    width: 191px;
+    padding-left: 51px;
+}
+
+#country {
+    width: 616px;
+    height: 50px;
+    border-radius: 10px;
+    opacity: 0.3;
+    border:solid gray 1px;
+    border-color: #E5E5E5;
+    margin-top: 5px;
+    margin-left: 51px;
+    padding-left: 18px;
+    margin-bottom: 13px;
+}
+
+#about {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    width: 191px;
+    padding-left: 51px;
+}
+
+#abouty {
+    width: 616px;
+    height: 148px;
+    border-radius: 10px;
+    opacity: 0.3;
+    border:solid gray 1px;
+    border-color: #E5E5E5;
+    margin-top: 5px;
+    margin-left: 51px;
+    padding-left: 18px;
+    margin-bottom: 13px;
+}
+
+#pass {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    width: 191px;
+    padding-left: 51px;
+}
+
+#passw {
+    width: 616px;
+    height: 50px;
+    border-radius: 10px;
+    opacity: 0.3;
+    border:solid gray 1px;
+    border-color: #E5E5E5;
+    margin-top: 5px;
+    margin-left: 51px;
+    padding-left: 18px;
+    margin-bottom: 13px;
+}
+
+#signb {
+    width: 205px;
+    height: 47px;
+    border-radius: 10px;
+    background-color: #FFDD04;
+    font-family: firagor;
+    font-size: 16px;
+    font-weight: 400;
+    border-color: #FFFFFF;
+    border-width: 0;
+    margin-left: 462px;
+}
